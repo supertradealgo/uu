@@ -1,0 +1,35 @@
+Panel=false
+Recovery=false
+Rcof=2.0
+GDREC=10
+Mode=0
+Riskp=5.0
+Prop=false
+Opposite=true
+FLOT=false
+FLOTT=0.01
+Commen=VISH FX
+Magic=2000
+s21=============Settings Eurusd=================
+TakeProff=1000.0
+StopLoos=1850.0
+CountOrdersE=1
+Trailing=true
+TrailingTr=105.0
+TrailingFr=185.0
+TrailingSp=3.0
+s2=============Settings Gold=================
+TakeProffG=1000.0
+StopLoosG=2600.0
+CountOrdersG=2
+TrailingStG=true
+TrailingLG=540
+TrailingBG=620
+TrailingSpG=3
+st1=News Settings
+NewsFilter=true
+DontOpBef=60
+DontOpAft=60
+FOFC=USD,EUR
+IH=true
+IM=false
