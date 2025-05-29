@@ -1,7 +1,4 @@
-186998961 26
-A11exness
-
-212628721 28
-A11exness
+108759217 l6
+Dipak26@
 
 https://sslecal2.forexprostools.com/
